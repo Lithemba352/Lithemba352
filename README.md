@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lithemba352
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php,java
+- 🌱 I’m currently learning php,java, C#, React and Angular
 - 💞️ I’m looking to collaborate on anything that is IT related
 - 📫 How to reach me ...
 
